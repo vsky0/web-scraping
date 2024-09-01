@@ -4,3 +4,4 @@ lxml
 python-dotenv
 streamlit
 selenium
+google-generativeai
